@@ -36,7 +36,6 @@ content:
         sub_title: 자바 웹 개발로 업무를 시작 하여 현재 PM 및 팀장 업무 수행 중
         caption: 2010.01. ~ 현재
         description: | # this will include new lines to allow paragraphs
-          LG Uplus 서비스 Ucube 시스템의 단말기 판매 기능을 개발하였습니다.<br><br>
           기술 스택
             - <mark>Spring Boot</mark>,<mark>Nginx</mark>,<mark>node.js</mark>,<mark>Junit5</mark>, <mark>Java</mark>, <mark>Javascript</mark>
             - <mark>Jenkins</mark>, <mark>RDBMS</mark>, <mark>Grafana</mark> ,<mark>vue.js</mark> 
