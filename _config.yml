@@ -51,7 +51,8 @@ content:
           - 기획 업무 회의 및 개발 일정 수립
           - 프로젝트 아키텍쳐 설계
           - 개발 업무 협의 진행 및 서버 관리
-          - stt , tts , LLM , SLM 을 이용한 솔루션 관리
+          - STT , TTS , LLM , SLM 을 이용한 솔루션 관리
+          - 신규 솔류션 timblo 런칭
       - title: 한국 클라우드
         sub_title: 팔레트 상담 Application PM
         caption: 2021.07 ~ 2022.10
