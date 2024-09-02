@@ -51,13 +51,14 @@ content:
           - 기획 업무 회의 및 개발 일정 수립
           - 프로젝트 아키텍쳐 설계
           - 개발 업무 협의 진행 및 서버 관리
+          - stt , tts , LLM , SLM 을 이용한 솔루션 관리
       - title: 한국 클라우드
         sub_title: 팔레트 상담 Application PM
         caption: 2021.07 ~ 2022.10
         description: | # this will include new lines to allow paragraphs
-          팔레트(상담APP) 솔루션 기획(F/E vue , B/E Springboot)
+          팔레트(상담 APP) 솔루션 기획(F/E vue , B/E Springboot)
           - 데이터 베이스 설계
-          - 프로젝트 오픈 진행(메타케어,퓨처누리,트로마츠,라온시큐어,라온헷)
+          - 프로젝트 오픈 진행 
           - 운영 유지보수 
           - 신규 프로젝트 진행시 팔레트 솔류션 으로 프로젝트 진행 하여 프로젝트 구성 진행
       - title: 메타넷
@@ -75,7 +76,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           상담 APP PM 
           - ABL 생명 해피콜 시스템 PM
-          - 기획 및 테이블 설계
+          - 각 프로젝트 PM 업무 ,기획 및 테이블 설계
           - 부산 은행 채권관리 시스템 PM
           - 채권관리 시스템 전화기 연동
           - 기획 및 테이블 설계

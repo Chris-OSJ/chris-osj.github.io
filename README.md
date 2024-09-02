@@ -1,3 +1,5 @@
-나의 이력서 만들기
+오세종 이력서 
 
-접속 https://chris-osj.github.io/
+24년 09월 버전
+
+접속 경로 https://chris-osj.github.io/
