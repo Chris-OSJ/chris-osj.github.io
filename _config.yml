@@ -43,9 +43,19 @@ content:
   - title: Experience # Title for the section
     layout: list # Layout for the section
     content:
+      - title: 매트릭스클라우드
+        sub_title: PM 업무
+        caption: 2025.03 ~ 현재
+        description: | # this will include new lines to allow paragraphs
+          PM  
+          - 기획 업무 회의 및 개발 일정 수립
+          - 아키텍쳐 설계
+          - 개발 업무 협의 진행 및 서버 관리
+          - IPCC 
+          - 운영 유지보수
       - title: Timbel
         sub_title: web 솔류션별 관리
-        caption: 2022.11 ~ 현재
+        caption: 2022.11 ~ 2025.03
         description: | # this will include new lines to allow paragraphs
           웹개발 팀 팀장  
           - 기획 업무 회의 및 개발 일정 수립
